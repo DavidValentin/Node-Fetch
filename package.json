@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.1.2",
+    "csv-writer": "^1.6.0",
     "node-fetch": "^3.2.10"
   },
   "type": "module"
